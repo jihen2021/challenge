@@ -1,0 +1,50 @@
+
+.contenu{
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Sofia&display=swap');
+
+.sofia{
+    font-family: 'Sofia'!important ;
+    
+    color: #e1b12c;
+    size: 30px !important;
+    
+}
+.sofia2{
+    font-family: 'Sofia', cursive;
+    size: 10px;  
+    color:#7f8fa6;
+    align-content: center;
+}
+.form{
+    display: flex;
+    justify-content: flex-start;
+}
+.btn1{
+    background-color: #e84118 !important;
+}
+.red{
+    color:crimson
+}
+.green{
+    color:darkgreen
+}
+
+.container{
+    font-family: 'Dancing Script', cursive;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.weatherApi{
+
+}
+.todoList{
+    margin-top: 10px;
+}
